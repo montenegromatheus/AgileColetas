@@ -1723,15 +1723,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\": {}
+    "C:\\Users\\felip\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Agile Coletas",
       "projectName": "Agile Coletas",
-      "projectPath": "C:\\Users\\felipe_ivia.EUSEBIO\\Documents\\UiPath\\AgileColetas\\.local",
-      "packagesPath": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe_ivia.EUSEBIO\\Documents\\UiPath\\AgileColetas\\.local"
+      "projectPath": "C:\\Users\\felip\\Documents\\UiPath\\AgileColetas\\.local",
+      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\felip\\Documents\\UiPath\\AgileColetas\\.local"
     },
     "frameworks": {
       "net461": {
@@ -1759,5 +1759,14 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Extended.Wpf.Toolkit 2.8' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Extended.Wpf.Toolkit"
+    }
+  ]
 }

@@ -6,20 +6,20 @@
         "Version": "2.8.3-beta.867639"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.excel.activities/2.8.3-beta.867639\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.excel.activities/2.8.3-beta.867639\\lib/net461/UiPath.Excel.Activities.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.excel.activities/2.8.3-beta.867639\\lib/net461/UiPath.Excel.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.excel.activities/2.8.3-beta.867639\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.excel.activities/2.8.3-beta.867639\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.excel.activities/2.8.3-beta.867639\\lib/net461/UiPath.Excel.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.excel.activities\\2.8.3-beta.867639"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.excel.activities\\2.8.3-beta.867639"
     },
     {
       "Package": {
@@ -27,18 +27,18 @@
         "Version": "1.8.3-beta.865074"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities/1.8.3-beta.865074\\lib/net461/MailKit.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities/1.8.3-beta.865074\\lib/net461/MimeKit.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities/1.8.3-beta.865074\\lib/net461/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities/1.8.3-beta.865074\\lib/net461/UiPath.Mail.Activities.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities/1.8.3-beta.865074\\lib/net461/UiPath.Mail.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities/1.8.3-beta.865074\\lib/net461/MailKit.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities/1.8.3-beta.865074\\lib/net461/MimeKit.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities/1.8.3-beta.865074\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities/1.8.3-beta.865074\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities/1.8.3-beta.865074\\lib/net461/UiPath.Mail.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074"
     },
     {
       "Package": {
@@ -46,24 +46,24 @@
         "Version": "20.4.0-beta.864462"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/UiPath.OrchestratorClient.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/UiPath.System.Activities.Design.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/UiPath.System.Activities.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities/20.4.0-beta.864462\\lib/net461/UiPath.System.Activities.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462"
     },
     {
       "Package": {
@@ -71,48 +71,48 @@
         "Version": "20.4.0-beta.866690"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath/20.4.7391.34509\\lib/UiPath.Interop.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.ocr.contracts/2.6.0-beta.835380\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.platform/20.4.0-beta.861233\\lib/net461/UiPath.Platform.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.telemetry.client/1.1.36\\lib/net461/TelemetryClient.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.CV.Activities.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.CV.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.Wizards.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.Core.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.Tesseract.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath/20.4.7391.34509\\lib/UiPath.Interop.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.ocr.contracts/2.6.0-beta.835380\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.platform/20.4.0-beta.861233\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.telemetry.client/1.1.36\\lib/net461/TelemetryClient.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.CV.Activities.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.CV.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities/20.4.0-beta.866690\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.Core.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.vision/2.0.3-beta.853545\\lib/net461/UiPath.Vision.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690"
     }
   ],
   "Conflicts": [],
@@ -403,9 +403,9 @@
         "Version": "5.0.3"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\avalonedit\\5.0.3\\lib\\Net40\\ICSharpCode.AvalonEdit.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\avalonedit\\5.0.3\\lib\\Net40\\ICSharpCode.AvalonEdit.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\avalonedit\\5.0.3"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\avalonedit\\5.0.3"
     },
     {
       "Package": {
@@ -413,9 +413,9 @@
         "Version": "1.8.5"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\bouncycastle\\1.8.5\\lib\\BouncyCastle.Crypto.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\bouncycastle\\1.8.5\\lib\\BouncyCastle.Crypto.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\bouncycastle\\1.8.5"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\bouncycastle\\1.8.5"
     },
     {
       "Package": {
@@ -423,9 +423,9 @@
         "Version": "0.87.1"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\closedxml\\0.87.1"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\closedxml\\0.87.1"
     },
     {
       "Package": {
@@ -433,9 +433,9 @@
         "Version": "2.13.5"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\csvhelper\\2.13.5\\lib\\net40-client\\CsvHelper.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\csvhelper\\2.13.5\\lib\\net40-client\\CsvHelper.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\csvhelper\\2.13.5"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\csvhelper\\2.13.5"
     },
     {
       "Package": {
@@ -443,9 +443,9 @@
         "Version": "2.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\documentformat.openxml\\2.5.0"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\documentformat.openxml\\2.5.0"
     },
     {
       "Package": {
@@ -453,14 +453,14 @@
         "Version": "2.8.0"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0"
     },
     {
       "Package": {
@@ -468,9 +468,9 @@
         "Version": "2.4.2"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\humanizer.core\\2.4.2\\lib\\netstandard2.0\\Humanizer.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\humanizer.core\\2.4.2\\lib\\netstandard2.0\\Humanizer.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\humanizer.core\\2.4.2"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\humanizer.core\\2.4.2"
     },
     {
       "Package": {
@@ -478,9 +478,9 @@
         "Version": "1.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\interop.domino.dll\\1.0.0\\lib\\Interop.Domino.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\interop.domino.dll\\1.0.0\\lib\\Interop.Domino.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\interop.domino.dll\\1.0.0"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\interop.domino.dll\\1.0.0"
     },
     {
       "Package": {
@@ -488,9 +488,9 @@
         "Version": "2.4.0"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
     },
     {
       "Package": {
@@ -498,10 +498,10 @@
         "Version": "2.2.0"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.Auth.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0"
     },
     {
       "Package": {
@@ -509,9 +509,9 @@
         "Version": "2.3.20"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20"
     },
     {
       "Package": {
@@ -519,9 +519,9 @@
         "Version": "7.10.6071"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071\\lib\\Microsoft.VisualStudio.OLE.Interop.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071\\lib\\Microsoft.VisualStudio.OLE.Interop.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071"
     },
     {
       "Package": {
@@ -529,9 +529,9 @@
         "Version": "12.0.3"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\lib\\net45\\Newtonsoft.Json.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json\\12.0.3\\lib\\net45\\Newtonsoft.Json.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\newtonsoft.json\\12.0.3"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json\\12.0.3"
     },
     {
       "Package": {
@@ -539,12 +539,12 @@
         "Version": "2.4.1"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\npoi\\2.4.1"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\npoi\\2.4.1"
     },
     {
       "Package": {
@@ -552,9 +552,9 @@
         "Version": "1.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\sharpziplib\\1.0.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\sharpziplib\\1.0.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\sharpziplib\\1.0.0"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\sharpziplib\\1.0.0"
     },
     {
       "Package": {
@@ -562,9 +562,9 @@
         "Version": "3.0.10"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\system.io.abstractions\\3.0.10"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\system.io.abstractions\\3.0.10"
     },
     {
       "Package": {
@@ -572,9 +572,9 @@
         "Version": "4.10.0"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0"
     },
     {
       "Package": {
@@ -582,9 +582,9 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\system.valuetuple\\4.5.0"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\system.valuetuple\\4.5.0"
     },
     {
       "Package": {
@@ -592,9 +592,9 @@
         "Version": "20.4.7391.34509"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath\\20.4.7391.34509\\lib\\UiPath.Interop.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\uipath\\20.4.7391.34509\\lib\\UiPath.Interop.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath\\20.4.7391.34509"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath\\20.4.7391.34509"
     },
     {
       "Package": {
@@ -602,11 +602,11 @@
         "Version": "2.8.3-beta.867639"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.excel.activities\\2.8.3-beta.867639\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.excel.activities\\2.8.3-beta.867639\\lib\\net461\\UiPath.Excel.Activities.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.excel.activities\\2.8.3-beta.867639\\lib\\net461\\UiPath.Excel.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.excel.activities\\2.8.3-beta.867639\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.excel.activities\\2.8.3-beta.867639\\lib\\net461\\UiPath.Excel.Activities.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.excel.activities\\2.8.3-beta.867639\\lib\\net461\\UiPath.Excel.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.excel.activities\\2.8.3-beta.867639"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.excel.activities\\2.8.3-beta.867639"
     },
     {
       "Package": {
@@ -614,13 +614,13 @@
         "Version": "1.8.3-beta.865074"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074\\lib\\net461\\MailKit.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074\\lib\\net461\\MimeKit.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074\\lib\\net461\\UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074\\lib\\net461\\UiPath.Mail.Activities.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074\\lib\\net461\\UiPath.Mail.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074\\lib\\net461\\MailKit.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074\\lib\\net461\\MimeKit.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074\\lib\\net461\\UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074\\lib\\net461\\UiPath.Mail.Activities.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074\\lib\\net461\\UiPath.Mail.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.mail.activities\\1.8.3-beta.865074"
     },
     {
       "Package": {
@@ -628,9 +628,9 @@
         "Version": "2.6.0-beta.835380"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0-beta.835380\\lib\\net461\\UiPath.OCR.Contracts.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0-beta.835380\\lib\\net461\\UiPath.OCR.Contracts.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0-beta.835380"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0-beta.835380"
     },
     {
       "Package": {
@@ -638,9 +638,9 @@
         "Version": "20.4.0-beta.861233"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.platform\\20.4.0-beta.861233\\lib\\net461\\UiPath.Platform.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.platform\\20.4.0-beta.861233\\lib\\net461\\UiPath.Platform.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.platform\\20.4.0-beta.861233"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.platform\\20.4.0-beta.861233"
     },
     {
       "Package": {
@@ -648,21 +648,21 @@
         "Version": "20.4.0-beta.864462"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\CustomInputForm.exe",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\UiPath.OrchestratorClient.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\UiPath.System.Activities.Design.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\UiPath.System.Activities.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\CustomInputForm.exe",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462\\lib\\net461\\UiPath.System.Activities.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.system.activities\\20.4.0-beta.864462"
     },
     {
       "Package": {
@@ -670,9 +670,9 @@
         "Version": "1.1.36"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.telemetry.client\\1.1.36\\lib\\net461\\TelemetryClient.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.telemetry.client\\1.1.36\\lib\\net461\\TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.telemetry.client\\1.1.36"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.telemetry.client\\1.1.36"
     },
     {
       "Package": {
@@ -680,25 +680,25 @@
         "Version": "20.4.0-beta.866690"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.DataGrid.Contrib.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.CV.Activities.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.CV.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.Wizards.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.CV.Activities.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.CV.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690\\lib\\net461\\UiPath.Wizards.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.0-beta.866690"
     },
     {
       "Package": {
@@ -706,10 +706,10 @@
         "Version": "2.0.3-beta.853545"
       },
       "Assemblies": [
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.vision\\2.0.3-beta.853545\\lib\\net461\\UiPath.Vision.Core.dll",
-        "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.vision\\2.0.3-beta.853545\\lib\\net461\\UiPath.Vision.dll"
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.vision\\2.0.3-beta.853545\\lib\\net461\\UiPath.Vision.Core.dll",
+        "C:\\Users\\felip\\.nuget\\packages\\uipath.vision\\2.0.3-beta.853545\\lib\\net461\\UiPath.Vision.dll"
       ],
-      "Path": "C:\\Users\\felipe_ivia.EUSEBIO\\.nuget\\packages\\uipath.vision\\2.0.3-beta.853545"
+      "Path": "C:\\Users\\felip\\.nuget\\packages\\uipath.vision\\2.0.3-beta.853545"
     }
   ]
 }
